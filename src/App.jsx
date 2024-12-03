@@ -59,7 +59,7 @@ const App = () => {
 
   const handleSwap = () => {
     setFromCurrency(toCurrency);
-    setToCurrency(fromCurrency);
+    setToCurrency(fromkurrency);
   };
 
   return (
